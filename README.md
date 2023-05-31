@@ -1,3 +1,19 @@
+
+  _______________                        |*\_/*|________
+  |  ___________  |     .-.     .-.      ||_/-\_|______  |
+  | |           | |    .****. .****.     | |           | |
+  | |   0   0   | |    .*****.*****.     | |   0   0   | |
+  | |     -     | |     .*********.      | |     -     | |
+  | |   \___/   | |      .*******.       | |   \___/   | |
+  | |___     ___| |       .*****.        | |___________| |
+  |_____|\_/|_____|        .***.         |_______________|
+    _|__|/ \|_|_.............*.............._|________|_
+   / ********** \                          / ********** \
+ /  ************  \                      /  ************  \
+--------------------                    --------------------
+
+
+
 # English
   # About Me
 Hi there, welcome to my GitHub page! My name is Tahiru, but you may also know me as squirelboy. 🐿️ I'm a tech enthusiast who loves exploring the latest innovations. My ambition is to start my own start-up company. To achieve that, I am currently learning Flutter, Dart, and other frameworks, as well as AI. By leveraging these platforms, I aim to create my own start-up venture. 🚀
