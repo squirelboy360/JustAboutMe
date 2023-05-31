@@ -15,14 +15,14 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt=""/>
   </a>
 </div>
  <img src="https://komarev.com/ghpvc/?username=squirelboy360&style=flat-square&color=blue" alt=""/>
 </div>
 
-## English
-  ## About Me
+## About me
+  ## Engels
 Hi there, welcome to my GitHub page! My name is Tahiru, but you may also know me as squirelboy. 🐿️ I'm a tech enthusiast who loves exploring the latest innovations. My ambition is to start my own start-up company. To achieve that, I am currently learning Flutter, Dart, and other frameworks, as well as AI. By leveraging these platforms, I aim to create my own start-up venture. 🚀
 
 I'm constantly expanding my language skills and currently learning Dutch, French, and many other languages to be globally accessible. 🌍 As a student, I'm always in a state of learning and self-improvement.
