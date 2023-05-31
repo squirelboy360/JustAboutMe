@@ -4,7 +4,7 @@
 
 # English
   # About Me
-![alt text](http://url/to/img.png)Hi there, welcome to my GitHub page! My name is Tahiru, but you may also know me as squirelboy. 🐿️ I'm a tech enthusiast who loves exploring the latest innovations. My ambition is to start my own start-up company. To achieve that, I am currently learning Flutter, Dart, and other frameworks, as well as AI. By leveraging these platforms, I aim to create my own start-up venture. 🚀
+![alt text](https://github.com/squirelboy360/JustAboutMe/blob/main/Hi.gif?raw=true)Hi there, welcome to my GitHub page! My name is Tahiru, but you may also know me as squirelboy. 🐿️ I'm a tech enthusiast who loves exploring the latest innovations. My ambition is to start my own start-up company. To achieve that, I am currently learning Flutter, Dart, and other frameworks, as well as AI. By leveraging these platforms, I aim to create my own start-up venture. 🚀
 
 I'm constantly expanding my language skills and currently learning Dutch, French, and many other languages to be globally accessible. 🌍 As a student, I'm always in a state of learning and self-improvement.
 
