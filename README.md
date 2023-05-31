@@ -1,17 +1,5 @@
 
-  _______________                        |*\_/*|________
-  |  ___________  |     .-.     .-.      ||_/-\_|______  |
-  | |           | |    .****. .****.     | |           | |
-  | |   0   0   | |    .*****.*****.     | |   0   0   | |
-  | |     -     | |     .*********.      | |     -     | |
-  | |   \___/   | |      .*******.       | |   \___/   | |
-  | |___     ___| |       .*****.        | |___________| |
-  |_____|\_/|_____|        .***.         |_______________|
-    _|__|/ \|_|_.............*.............._|________|_
-   / ********** \                          / ********** \
- /  ************  \                      /  ************  \
---------------------                    --------------------
-
+ 
 
 
 # English
@@ -33,3 +21,17 @@ Ik ben altijd bezig met het vergroten van mijn taalvaardigheden en leer momentee
 In mijn vrije tijd volg ik graag voetbal, en ik ben een grote fan van Manchester United, Napoli en Real Madrid. ⚽ Mijn nieuwsgierigheid en verlangen om te leren hebben me ook geleid tot het streven naar kennis over alles wat er bestaat.
 
 Voel je vrij om door mijn projecten te bladeren en contact met me op te nemen als je vragen, suggesties of interesse hebt in samenwerking!
+
+
+ _______________                        |*\_/*|________
+  |  ___________  |     .-.     .-.      ||_/-\_|______  |
+  | |           | |    .****. .****.     | |           | |
+  | |   0   0   | |    .*****.*****.     | |   0   0   | |
+  | |     -     | |     .*********.      | |     -     | |
+  | |   \___/   | |      .*******.       | |   \___/   | |
+  | |___     ___| |       .*****.        | |___________| |
+  |_____|\_/|_____|        .***.         |_______________|
+    _|__|/ \|_|_.............*.............._|________|_
+   / ********** \                          / ********** \
+ /  ************  \                      /  ************  \
+--------------------                    --------------------
