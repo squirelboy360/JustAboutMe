@@ -23,7 +23,7 @@ In mijn vrije tijd volg ik graag voetbal, en ik ben een grote fan van Manchester
 Voel je vrij om door mijn projecten te bladeren en contact met me op te nemen als je vragen, suggesties of interesse hebt in samenwerking!
 
 
- _______________                        |*\_/*|________
+<!--  _______________                        |*\_/*|________
   |  ___________  |     .-.     .-.      ||_/-\_|______  |
   | |           | |    .****. .****.     | |           | |
   | |   0   0   | |    .*****.*****.     | |   0   0   | |
@@ -34,4 +34,4 @@ Voel je vrij om door mijn projecten te bladeren en contact met me op te nemen al
     _|__|/ \|_|_.............*.............._|________|_
    / ********** \                          / ********** \
  /  ************  \                      /  ************  \
---------------------                    --------------------
+--------------------                    -------------------- -->
