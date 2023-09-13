@@ -38,5 +38,9 @@ Feel free to explore my projects and reach out to me if you have any questions, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+
+## Stats for nerds
+
+[![GitHub stats](https://img.shields.io/github/followers/your-username?label=Followers&style=social)](https://github.com/squirelboy360)
+
 </div>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=squirelboy360&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
