@@ -41,6 +41,9 @@ Feel free to explore my projects and reach out to me if you have any questions, 
 
 ## Stats for nerds
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squirelboy360)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![GitHub stats](https://img.shields.io/github/followers/your-username?label=Followers&style=social)](https://github.com/squirelboy360)
 
 </div>
