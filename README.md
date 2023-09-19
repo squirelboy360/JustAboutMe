@@ -21,14 +21,14 @@
  <img src="https://komarev.com/ghpvc/?username=squirelboy360&style=flat-square&color=blue" alt=""/>
 </div>
 
-## About me =>
+## About meℹ️
 Hi there, welcome to my GitHub page! My name is Tahiru, but you may also know me as squirelboy. 🐿️ I'm a tech enthusiast who loves exploring the latest innovations. My ambition is to start my own start-up venture by leveraging the skills i have. 🚀
 
 In my free time, I enjoy following football, and I'm a big fan of Manchester United 👹, Napoli, and Real Madrid. ⚽ My curiosity and desire for knowledge also drive me to learn about everything that exists.
 
 Feel free to explore my projects and reach out to me if you have any questions, suggestions, or if you're interested in collaboration!
 
-## These are some languages and frameworks i am currently using:
+## These are some languages and frameworks i am currently using 👇
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -39,7 +39,7 @@ Feel free to explore my projects and reach out to me if you have any questions, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
-## Stats for nerds
+## Stats for nerds 🤓
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squirelboy360)](https://github.com/anuraghazra/github-readme-stats)
 
