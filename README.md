@@ -37,7 +37,7 @@ Feel free to explore my projects and reach out to me if you have any questions, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
-## Stats for nerds 🤓
+## Stats for nerds 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squirelboy360)](https://github.com/anuraghazra/github-readme-stats)
 
