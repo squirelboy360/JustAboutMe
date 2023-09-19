@@ -28,7 +28,7 @@ In my free time, I enjoy following football, and I'm a big fan of Manchester Uni
 
 Feel free to explore my projects and reach out to me if you have any questions, suggestions, or if you're interested in collaboration!
 
-## These are some languages and frameworks i am currently using;
+## These are some languages and frameworks i am currently using:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
