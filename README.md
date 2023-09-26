@@ -19,7 +19,8 @@
  <img src="https://komarev.com/ghpvc/?username=squirelboy360&style=flat-square&color=blue" alt=""/>
 </div>
 
-## About meℹ️
+##
+# About meℹ️
 Hi there, welcome to my GitHub page! My name is Tahiru, but you may also know me as squirelboy. 🐿️ I'm a tech enthusiast who loves exploring the latest innovations. My ambition is to start my own start-up venture by leveraging the skills i have. 🚀
 
 In my free time, I enjoy following football, and I'm a big fan of Manchester United 👹, Napoli, Ajax Amsterdam and Real Madrid. ⚽ My curiosity and desire for knowledge also drive me to learn about everything that exists.
@@ -29,7 +30,7 @@ Feel free to explore my projects and reach out to me if you have any questions, 
 
 ## Nederlands
 
-Over mijℹ️
+# Over mijℹ️
 Hallo daar, welkom op mijn GitHub-pagina! Mijn naam is Tahiru, maar je kunt me ook kennen als squirelboy. 🐿️ Ik ben een technologiefanaat die graag de nieuwste innovaties verkent. Mijn ambitie is om mijn eigen start-uponderneming te beginnen door gebruik te maken van de vaardigheden die ik heb. 🚀
 
 In mijn vrije tijd geniet ik van het volgen van voetbal, en ik ben een grote fan van Manchester United 👹, Napoli, Ajax Amsterdam en Real Madrid. ⚽ Mijn nieuwsgierigheid en verlangen naar kennis drijven me er ook toe om alles te leren over wat er bestaat.
