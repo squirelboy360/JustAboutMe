@@ -1,13 +1,11 @@
 <h1>
-  Hey there 
+  Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <ul>
     <p>- I am building a start-up company -</p>
   <p>- I am fixing broken Flutter and React-Native dependencies for the community -</p>
   <p>- I am working out - </p>
 </ul>
-  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
