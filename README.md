@@ -1,8 +1,8 @@
 <h1>
   Hey there 
-  - I am building a start-up company -
-  - I am fixing broken Flutter and React-Native dependencies for the community -
-  - I am working out - 
+  <p>- I am building a start-up company -</p>
+  <p>- I am fixing broken Flutter and React-Native dependencies for the community -</p>
+  <p>- I am working out - </p>
   
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
