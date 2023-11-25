@@ -2,9 +2,9 @@
   Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <ul>
-  <h1><p>- I am building a start-up company - </p><h1/>
-  <h1><p>- I am fixing broken Flutter and React-Native dependencies for the community -</p></h1>
-  <h1><p>- I am working out -</p></h1>
+  <p>- I am building a start-up company - </p>
+  <p>- I am fixing broken Flutter and React-Native dependencies for the community -</p>
+  <p>- I am working out -</p>
 </ul>
 
 <div id="header" align="center">
