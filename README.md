@@ -44,16 +44,6 @@ In my free time, I enjoy following football, and I'm a big fan of Manchester Uni
 Feel free to explore my projects and reach out to me if you have any questions, suggestions, or if you're interested in collaboration!
 
 
-## Nederlands
-
-# Over mijℹ️
-Hallo daar, welkom op mijn GitHub-pagina! Mijn naam is Tahiru, maar je kunt me ook kennen als squirelboy. 🐿️ Ik ben een technologiefanaat die graag de nieuwste innovaties verkent. Mijn ambitie is om mijn eigen start-uponderneming te beginnen door gebruik te maken van de vaardigheden die ik heb. 🚀
-
-In mijn vrije tijd geniet ik van het volgen van voetbal, en ik ben een grote fan van Manchester United 👹, Napoli, Ajax Amsterdam en Real Madrid. ⚽ Mijn nieuwsgierigheid en verlangen naar kennis drijven me er ook toe om alles te leren over wat er bestaat.
-
-Voel je vrij om mijn projecten te verkennen en neem contact met me op als je vragen, suggesties hebt, of als je geïnteresseerd bent in samenwerking!
-
-
 ## These are some languages and frameworks i am currently using 👇
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -69,11 +59,8 @@ Voel je vrij om mijn projecten te verkennen en neem contact met me op als je vra
 
 ## Stats for nerds 🤓
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squirelboy360)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-  <a href="https://leetcode.com/drknzz/"><img width="48%" src="https://leetcode.card.workers.dev/squirelboy360?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
   <a href="https://github.com/squirelboy360"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=squirelboy360&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
-</p>
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=squirelboy360)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
