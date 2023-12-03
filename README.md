@@ -34,7 +34,7 @@
 # About meℹ️
 Hi there, welcome to my GitHub page! My name is Tahiru, but you may also know me as squirelboy. 🐿️ I'm a tech enthusiast who loves exploring the latest innovations. My ambition is to start my own start-up venture by leveraging the skills i have. 🚀
 
-In my free time, I enjoy following football, and I'm a big fan of Manchester United 👹, Napoli, Ajax Amsterdam and Real Madrid. ⚽ My curiosity and desire for knowledge also drive me to learn about everything that exists.
+In my free time, I enjoy following football, and I'm a big fan of Manchester United 👹, Napoli, Ajax Amsterdam and Real Madrid. ⚽ My curiosity and desire for knowledge also drive me to learn about everything that exists. I am currently learning French 🇫🇷 at A2 level and Dutch 🇳🇱 at a B1 level. I hope to learn more languages as well as i want to travel the globe.   
 
 Feel free to explore my projects and reach out to me if you have any questions, suggestions, or if you're interested in collaboration!
 
